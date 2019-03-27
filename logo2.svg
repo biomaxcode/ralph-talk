@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="398.883" height="152" viewBox="0 0 398.883 152">
+  <defs>
+    <filter id="Rectangle_2" x="192.058" y="1.555" width="206.825" height="109.601" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_1" x="273.707" y="84.99" width="81.588" height="62.433" filterUnits="userSpaceOnUse">
+      <feOffset dx="-4" dy="10" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_3" data-name="Group 3" transform="translate(-61 -28)">
+    <g id="Group_1" data-name="Group 1" transform="translate(266.058 29.555)">
+      <g transform="matrix(1, 0, 0, 1, -205.06, -1.56)" filter="url(#Rectangle_2)">
+        <rect id="Rectangle_2-2" data-name="Rectangle 2" width="188.825" height="90.601" rx="12" transform="translate(205.06 1.56)" fill="#58f092"/>
+      </g>
+      <g transform="matrix(1, 0, 0, 1, -205.06, -1.56)" filter="url(#Path_1)">
+        <path id="Path_1-2" data-name="Path 1" d="M136.111,430l-16.86,43.433L182.839,430Z" transform="translate(167.46 -345.01)" fill="#58f092"/>
+      </g>
+    </g>
+    <text id="Ralph_talk_" data-name="Ralph  talk
+" transform="translate(61 100)" fill="#4d9cb9" font-size="72" font-family="AvenirNext-DemiBold, Avenir Next" font-weight="300"><tspan x="0" y="0" fill="#fff">Ralph</tspan><tspan y="0" xml:space="preserve" fill="#000">  </tspan><tspan y="0" fill="#4d9cb9">talk</tspan><tspan x="0" y="54"></tspan></text>
+  </g>
+</svg>
